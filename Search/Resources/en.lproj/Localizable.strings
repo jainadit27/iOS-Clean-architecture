@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  Search
+
+  Created by Aditya Jain on 1/18/19.
+  Copyright © 2019 Zomato. All rights reserved.
+*/
+
+"RECENT_SEARCHES" = "Recent Searches";
+"TOP_RESULT" = "Top Result";
+"ARTICLES" = "Articles";
+"PLAYLISTS" = "Playlists";
